@@ -1,13 +1,4 @@
-## Roadmap
-- [ ] Clock in and clock out
-- [ ] Add new employee
-- [ ] Remove employee
-- [ ] Update employee
-- [ ] Search Employee 
-- [ ] View employee:
-    - [ ] View attendance 
-    - [ ] Edit attendance
+### electron-vite-vue-template
 
-- [ ] Login as admin
-- [ ] Login as employee
-- [ ] Export data as csv
+This is a template repository for creating a new Electron app with Vite and Vue 3. It also has:
+- Tailwind CSS
